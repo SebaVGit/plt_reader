@@ -3,7 +3,8 @@ A python script that reads and plot PLT files from TECPLOT in Groundwater Vistas
 ## Required packages
 **pandas version:** `1.1.3 or later`\
 **matplotlib version:** `3.3.1 or later`\
-**numpy version:** `1.19.2 or later`
+**numpy version:** `1.19.2 or later`\
+**tqdm version:** `4.49.0 or later`
 ## Example
 I used CLN_TEST.plt file created with [Groundwater Vistas 7](http://www.groundwatermodels.com/) using `Plot>Tecplot>Export>Target Hydrograph`.\
 Also you have the entire test project of GWV [here](https://github.com/SebaVGit/mfusg_cln_bin_reader) in the `MODFLOW_Files`.\
