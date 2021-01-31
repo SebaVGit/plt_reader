@@ -3,7 +3,6 @@
 @author: Sebastián Vázquez
 """
 from utils.fun import *
-import time
 
 if __name__ == '__main__' :
     t = time.time()

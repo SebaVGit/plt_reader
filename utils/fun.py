@@ -2,13 +2,11 @@
 import sys
 import glob
 import os
-import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 import datetime as dt
 from datetime import date
-from datetime import timedelta  
-from numpy import genfromtxt
+from datetime import timedelta
 import matplotlib.ticker as tkr
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
@@ -16,6 +14,7 @@ from matplotlib.ticker import FormatStrFormatter
 import locale
 from collections import OrderedDict
 from tqdm import tqdm
+import time
 #-------------------skip matplotlib warning-------------------------------
 from pandas.plotting import register_matplotlib_converters
 register_matplotlib_converters()
