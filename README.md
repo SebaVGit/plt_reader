@@ -15,9 +15,10 @@ In this version, you can customized your plots as you like.
 ## Disclaimer
 This is just a simple version and I have to set it better in order to make it easier to use.
 ## Running test
-Assuming that you use Anaconda, you can run the script from the command lind with:\
+Assuming that you are using Anaconda, you can run the script from the command lind with:\
 `activate [your environment]`\
-`python plt_reader.py`
+`python plt_reader.py`\
+Otherwise try to set python to **your path** and run the last line.
 ## Contact
 Please if you want to improve the code feel free to contact me or make a pull request.\
 email: `sebastian.vazquez@ug.uchile.cl`\
