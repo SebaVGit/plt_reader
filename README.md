@@ -11,7 +11,7 @@ Also you have the entire test project of GWV [here](https://github.com/SebaVGit/
 You can find the MODLOFW-USG with Transport executable [here](https://www.gsi-net.com/en/software/free-software/modflow-usg.html)
 ## Capabilities
 You can easily read `.plt files` and plot all your targets.\
-In this version, you can customized your plots as you like.\
+In this version, you can customized your plots as you like.
 ## Disclaimer
 This is just a simple version and I have to set it better in order to make it easier to use.
 ## Running test
