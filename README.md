@@ -6,8 +6,8 @@ A python script that reads and plot PLT files from TECPLOT in Groundwater Vistas
 **numpy version:** `1.19.2 or later`\
 **tqdm version:** `4.49.0 or later`
 ## Example
-I used CLN_TEST.plt file. wich was created with [Groundwater Vistas 7](http://www.groundwatermodels.com/) using `Plot>Tecplot>Export>Target Hydrograph`.\
-Also you have the entire test project of GWV [here](https://github.com/SebaVGit/mfusg_cln_bin_reader) in the `MODFLOW_Files`.\
+As an example I used CLN_TEST.plt file, wich was created with [Groundwater Vistas 7](http://www.groundwatermodels.com/) using `Plot>Tecplot>Export>Target Hydrograph`.\
+Also you have the entire GWV test project [here](https://github.com/SebaVGit/mfusg_cln_bin_reader) in the `MODFLOW_Files`.\
 You can find the MODLOFW-USG with Transport executable [here](https://www.gsi-net.com/en/software/free-software/modflow-usg.html)
 ## Capabilities
 You can easily read `.plt files` and plot all your targets.\
